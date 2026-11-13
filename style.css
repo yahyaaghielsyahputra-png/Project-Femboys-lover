@@ -3,3 +3,9 @@ h1 {
     text-align: center;
     color: violet;
 }
+
+p {
+    align-items: center;
+    text-align: center;
+    color : blueviolet;
+}
